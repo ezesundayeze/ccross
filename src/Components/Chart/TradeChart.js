@@ -53,7 +53,7 @@ const TradeChart = () => {
               </div>
             </div>
             <div className="right">
-              <span className="value value-bold">$ 34,346.00</span>
+              <span className="value value-bold">$ {chart.funds}</span>
               <span className="comman-text-style">Total commitment funds</span>
             </div>
           </div>
