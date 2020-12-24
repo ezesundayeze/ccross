@@ -11,7 +11,7 @@ const Sidebar = () => {
         <div className="sidebar__header">
           <div className="sidebar__header--left">
             <img src={OpenTradeIcon} alt="open trades icon" />
-            <span>Open Trades</span>
+            <span>Trading History</span>
           </div>
           <a className="sidebar__header--right" href="/">
             <img src={ArrowRightIcon} alt="arrow icon" />
