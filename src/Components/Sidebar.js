@@ -77,7 +77,7 @@ const Sidebar = () => {
         <div className="sidebar__header">
           <div className="sidebar__header--left">
             <img src={Wallet} alt="Wallet icon" />
-            <span>Open Trades</span>
+            <span>Wallet</span>
           </div>
           <a className="sidebar__header--right" href="/">
             <img src={ArrowRightIcon} alt="arrow icon" />
